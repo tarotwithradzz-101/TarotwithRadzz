@@ -1,0 +1,21 @@
+{
+  "name": "tarot-with-radzz",
+  "version": "1.0.0",
+  "description": "Tarot with Radzz - Your Inner Wisdom Already Knows",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.15"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "tarot",
+    "static-site"
+  ],
+  "author": "Radzz",
+  "license": "UNLICENSED"
+}
